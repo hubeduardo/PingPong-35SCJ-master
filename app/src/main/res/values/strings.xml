@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Ping Pong</string>
+    <string name="label_title">PingPongX</string>
+    <string name="label_subtitle">Vai começar a partida!</string>
+    <string name="label_sub_subtitle">Fill playeres</string>
+    <string name="hint_player_one">Player 1</string>
+    <string name="hint_player_two">Player 2</string>
+    <string name="label_comecarPartida">Start Game</string>
+</resources>
